@@ -1,0 +1,147 @@
+[
+  {
+    "id": 1,
+    "questionText": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Lisbon"],
+    "correctAnswer": "Paris"
+  },
+  {
+    "id": 2,
+    "questionText": "Who is the CEO of Tesla?",
+    "options": ["Jeff Bezos", "Elon Musk", "Bill Gates", "Tony Stark"],
+    "correctAnswer": "Elon Musk"
+  },
+  {
+    "id": 3,
+    "questionText": "What is the largest planet in our solar system?",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "correctAnswer": "Jupiter"
+  },
+  {
+    "id": 4,
+    "questionText": "Which element has the chemical symbol O?",
+    "options": ["Oxygen", "Gold", "Silver", "Osmium"],
+    "correctAnswer": "Oxygen"
+  },
+  {
+    "id": 5,
+    "questionText": "Who wrote 'Romeo and Juliet'?",
+    "options": [
+      "Charles Dickens",
+      "William Shakespeare",
+      "Mark Twain",
+      "Jane Austen"
+    ],
+    "correctAnswer": "William Shakespeare"
+  },
+  {
+    "id": 6,
+    "questionText": "What is the smallest prime number?",
+    "options": ["0", "1", "2", "3"],
+    "correctAnswer": "2"
+  },
+  {
+    "id": 7,
+    "questionText": "In which year did the Titanic sink?",
+    "options": ["1912", "1905", "1898", "1923"],
+    "correctAnswer": "1912"
+  },
+  {
+    "id": 8,
+    "questionText": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Iron", "Diamond", "Platinum"],
+    "correctAnswer": "Diamond"
+  },
+  {
+    "id": 9,
+    "questionText": "What is the square root of 64?",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswer": "8"
+  },
+  {
+    "id": 10,
+    "questionText": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Saturn", "Mars", "Jupiter"],
+    "correctAnswer": "Mars"
+  },
+  {
+    "id": 11,
+    "questionText": "Who painted the Mona Lisa?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Claude Monet"
+    ],
+    "correctAnswer": "Leonardo da Vinci"
+  },
+  {
+    "id": 12,
+    "questionText": "What is the main ingredient in guacamole?",
+    "options": ["Tomato", "Avocado", "Pepper", "Onion"],
+    "correctAnswer": "Avocado"
+  },
+  {
+    "id": 13,
+    "questionText": "What is the capital city of Japan?",
+    "options": ["Kyoto", "Osaka", "Tokyo", "Nagoya"],
+    "correctAnswer": "Tokyo"
+  },
+  {
+    "id": 14,
+    "questionText": "Who developed the theory of relativity?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Nikola Tesla"
+    ],
+    "correctAnswer": "Albert Einstein"
+  },
+  {
+    "id": 15,
+    "questionText": "What is the largest ocean on Earth?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "correctAnswer": "Pacific Ocean"
+  },
+  {
+    "id": 16,
+    "questionText": "What is the symbol for the chemical element sodium?",
+    "options": ["Na", "K", "Ca", "Mg"],
+    "correctAnswer": "Na"
+  },
+  {
+    "id": 17,
+    "questionText": "Who is the author of 'The Great Gatsby'?",
+    "options": [
+      "F. Scott Fitzgerald",
+      "Ernest Hemingway",
+      "Mark Twain",
+      "William Faulkner"
+    ],
+    "correctAnswer": "F. Scott Fitzgerald"
+  },
+  {
+    "id": 18,
+    "questionText": "Which animal is known as the 'King of the Jungle'?",
+    "options": ["Elephant", "Giraffe", "Lion", "Tiger"],
+    "correctAnswer": "Lion"
+  },
+  {
+    "id": 19,
+    "questionText": "What is the chemical symbol for water?",
+    "options": ["O", "H2O", "W", "H2"],
+    "correctAnswer": "H2O"
+  },
+  {
+    "id": 20,
+    "questionText": "What is the currency of Japan?",
+    "options": ["Yuan", "Euro", "Dollar", "Yen"],
+    "correctAnswer": "Yen"
+  }
+]
